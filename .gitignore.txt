@@ -1,0 +1,22 @@
+#for cpp project
+*.vcxproj?(.*)
+/Debug
+
+
+#unsolved
+_*?.cpp
+
+
+#for test
+0*?
+
+
+
+
+
+
+
+
+
+
+
