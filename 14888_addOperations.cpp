@@ -7,7 +7,7 @@ void addOp(int, int);
 int n;
 int num[11];
 int op[4];
-int minResult = 1000000001, maxResult;
+int minResult = 1000000001, maxResult = -1000000001;
 
 int main() {
 	cin >> n;
