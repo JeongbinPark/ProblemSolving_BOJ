@@ -1,6 +1,7 @@
 #for cpp project
 *.vcxproj?(.*)
 /Debug
+/x64
 
 
 #unsolved
@@ -9,10 +10,6 @@ _*?.cpp
 
 #for test
 0*?
-
-
-
-
 
 
 
